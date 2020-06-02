@@ -1,0 +1,10 @@
+types:
+  - build
+  - ci
+  - docs
+  - fix
+  - feature
+  - style
+  - refactor
+  - performance
+  - test
